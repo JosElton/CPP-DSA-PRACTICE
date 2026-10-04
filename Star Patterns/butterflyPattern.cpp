@@ -32,4 +32,4 @@ int main() {
     }
 return 0;
 }
-//g++ butterflyPattern.cpp -o pyramidpattern; .\pyramidpattern.exe
+//terminal execution command: g++ butterflyPattern.cpp -o butterflyPattern; .\butterflyPattern.exe
